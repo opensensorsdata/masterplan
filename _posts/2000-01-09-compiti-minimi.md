@@ -4,10 +4,11 @@ nav-icon: <i class="fa fa-puzzle-piece"></i>
 bg: arancio
 color: black
 fa-icon: puzzle-piece
+safe: <i class="fa fa-medkit"></i>
 permalink: compiti-minimi
 ---
 
-## COMPITI MINIMI
+## [<i class="fa fa-angle-up"></i>](#cantiere-aperto) COMPITI MINIMI [<i class="fa fa-angle-down"></i>](#tempi-comunicazione)
 
 ... e che abbiano sempre una finalità.
 

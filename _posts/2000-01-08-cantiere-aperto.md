@@ -4,10 +4,11 @@ nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
 color: black
 fa-icon: cogs
+safe: <i class="fa fa-medkit"></i>
 permalink: cantiere-aperto
 ---
 
-## IL LAVORO NEL CANTIERE
+## [<i class="fa fa-angle-up"></i>](#i-ruoli) IL LAVORO NEL CANTIERE [<i class="fa fa-angle-down"></i>](#compiti-minimi)
 
 Se c’è un cantiere c’è anche chi lo guarda. I tuoi Dati-Operai stanno lì a svolgere le attività che ogni Capo Squadra ha definito e sono i loro migliori rappresentanti: la qualità del loro lavoro è merito di chi li ha formati e selezionati. Condividere i tuoi Dati-Operai garantisce il tuo investimento nella tua professione. 
 

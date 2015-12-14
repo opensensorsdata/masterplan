@@ -1,5 +1,5 @@
 ---
-title: La sicurezza nel cantiere
+title: Misure per la sicurezza
 nav-icon: <i class="fa fa-medkit"></i>
 bg: ciano
 color: black
@@ -9,7 +9,7 @@ permalink: sicurezza
 ---
 
 
-## LA SICUREZZA NEL CANTIERE
+## [<i class="fa fa-angle-up"></i>](#architetture) MISURE PER LA SICUREZZA [<i class="fa fa-angle-down"></i>](#i-ruoli)
 
 Le misure per la sicurezza nel cantiere è l’insieme delle *prescrizioni* e delle *prevenzioni* 
 

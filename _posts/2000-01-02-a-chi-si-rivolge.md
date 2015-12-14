@@ -9,7 +9,7 @@ permalink: a-chi-si-rivolge
 
 
 
-## A CHI SI RIVOLGE
+## [<i class="fa fa-angle-up"></i>](#intro) A CHI SI RIVOLGE [<i class="fa fa-angle-down"></i>](#schema)
 
 - **Alle imprese**, perché possano progettare attività adeguate a supportare lo sviluppo di open business model, ovvero quei modelli usati dalle compagnie per creare e catturare valore in modo sistematico, collaborando con partner esterni e migliorando la collaborazione dei team interni.  
 - **Alle strutture pubbliche**, perchè possano disporre di un metodo affidabile di creazione e gestione di  microstrutture trasversali. Queste strutture, o team cross-funzionali, sono composte da diverse professionalità e sono finalizzate ad attività di produzione e condivisione di dati (per vari scopi come promozione, adempimenti normativi ecc ecc).

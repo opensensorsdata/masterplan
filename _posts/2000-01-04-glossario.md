@@ -7,7 +7,7 @@ fa-icon: language
 permalink: glossario
 ---
 
-## GLOSSARIO
+## [<i class="fa fa-angle-up"></i>](#schema) GLOSSARIO [<i class="fa fa-angle-down"></i>](#architetture)
 
 - **Backlog** <i class="fa fa-long-arrow-right"></i> è l’elenco delle attività e delle storie che vengono scelte/svolte dai membri del gruppo
 - **MVP** <i class="fa fa-long-arrow-right"></i> [Minimum Value Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) la parte essenziale di cosa si vuole realizzare. Le caratteristiche minime che caratterizzano il progetto 
