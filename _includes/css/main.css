@@ -244,6 +244,14 @@ nav ul li:hover, nav ul li.active {
   text-shadow: 1px 1px 3px #333;
 }
 
+.sectionsocialbutton {
+  width:270px;
+  height:270px;
+  padding:15px;
+  position:absolute;
+  left:50%;
+  margin-left:-135px;
+}
 
 .columned {
   -webkit-column-count: 3;
