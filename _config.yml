@@ -21,7 +21,14 @@ description: "Il Masterplan è un modello concettuale,  pensato per armonizzare 
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+
+## Author
+author:
+  name:           'osd crew'
+  url:            'https://twitter.com/osd_it'
+  twitter:        'osd_it'
+  facebook:       'https://www.facebook.com/opensensorsdata'
 
 
 ### social profile
