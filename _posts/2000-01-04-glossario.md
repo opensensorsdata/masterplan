@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-language"></i>
+title: Glossario
+nav-icon: <i class="fa fa-language"></i>
 bg: giallo
 color: black
 fa-icon: language

@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-cogs"></i>
+title: Il lavoro nel cantiere
+nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
 color: black
 fa-icon: cogs

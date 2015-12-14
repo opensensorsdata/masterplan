@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-comments-o"></i>
+title: I tempi di comunicazione
+nav-icon: <i class="fa fa-comments-o"></i>
 bg: giallo
 color: black
 fa-icon: comments-o
