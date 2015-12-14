@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Masterplan // Build it!</title>
+ <link href="http://masterplan.opensensorsdata.it/atom.xml" rel="self"/>
+ <link href="http://masterplan.opensensorsdata.it/"/>
+ <updated>2015-12-14T19:53:01+01:00</updated>
+ <id>http://masterplan.opensensorsdata.it</id>
+ <author>
+   <name>osd crew</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>I tempi di comunicazione</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-10T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/tempi-comunicazione</id>
+   <content type="html">&lt;h2&gt;I TEMPI DI COMUNICAZIONE&lt;/h2&gt;
+
+&lt;p&gt;Ogni ruolo deve sapere che più persone ci sono in squadra, più tempo si dedica alla comunicazione dei compiti e delle attività. La documentazione - solo se è facilmente reperibile e organizzabile -  serve a ridurre il numero delle riunioni. Una formula utile per calcolare i canali di comunicazione (dove &lt;em&gt;n&lt;/em&gt; è numero di persone) &lt;code&gt;n(n-1)/2&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4&gt;Prescrizioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sono in grado di definire sprechi e vuoti di comunicazione.&lt;/li&gt;
+  &lt;li&gt;Le squadre si devono riconoscere nell’attività non in quello che sanno fare.&lt;/li&gt;
+  &lt;li&gt;Il Capocantiere concorda una priorità alla volta con il Caposquadra.&lt;/li&gt;
+  &lt;li&gt;La documentazione  è la riduzione dei tempi di riunione.&lt;/li&gt;
+  &lt;li&gt;La documentazione deve essere finalizzata a ricostruire le motivazioni e gli ambiti delle attività.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Prevenzioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cosa abbiamo fatto? Cosa faremo? Ci sono stati impedimenti?&lt;/li&gt;
+  &lt;li&gt;Ogni elemento della squadra è funzionale?&lt;/li&gt;
+  &lt;li&gt;Ci sono dei compiti specialistici che richiedono più elementi con la stessa competenza?&lt;/li&gt;
+  &lt;li&gt;Gli elementi di una squadra si integrano riuscendo a interessarsi sulle rispettive competenze?&lt;/li&gt;
+  &lt;li&gt;Riesco a stimolare la curiosità all’interno della squadra?&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Compiti minimi</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-09T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/compiti-minimi</id>
+   <content type="html">&lt;h2&gt;COMPITI MINIMI&lt;/h2&gt;
+
+&lt;p&gt;… e che abbiano sempre una finalità.&lt;/p&gt;
+
+&lt;p&gt;Ciascun ruolo ha dei compiti che devono essere definiti in forma semplice e in un ambito definito. L’essenzialità dei compiti aiuta a comporre più facilmente le attività che dovranno produrre sempre degli effetti pratici nel cantiere.&lt;/p&gt;
+
+&lt;h4&gt;Prescrizioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;L’efficacia dei Capisquadra è il numero di errori che riescono ad individuare.&lt;/li&gt;
+  &lt;li&gt;L’efficienza dei Capisquadra è la velocità con cui risolvono gli errori.&lt;/li&gt;
+  &lt;li&gt;Motivare un compito e  un’attività è la miglior verifica.&lt;/li&gt;
+  &lt;li&gt;Ciascun ruolo deve essere in grado di comprendere la motivazione di un’attività.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Prevenzioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;La motivazione di un’attività è compatibile con la finalità del cantiere?&lt;/li&gt;
+  &lt;li&gt;Tutti hanno la possibilità di accedere alla lista delle attività?&lt;/li&gt;
+  &lt;li&gt;Esistono delle risorse per comprendere le specificità delle documentazioni dei vari attori?&lt;/li&gt;
+  &lt;li&gt;Le attività hanno sempre inserito il compito di documentare?&lt;/li&gt;
+  &lt;li&gt;Ho accesso a documentazioni storiche per analizzare eventuali errori o duplicazioni?&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Il lavoro nel cantiere</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-08T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/cantiere-aperto</id>
+   <content type="html">&lt;h2&gt;IL LAVORO NEL CANTIERE&lt;/h2&gt;
+
+&lt;p&gt;Se c’è un cantiere c’è anche chi lo guarda. I tuoi Dati-Operai stanno lì a svolgere le attività che ogni Capo Squadra ha definito e sono i loro migliori rappresentanti: la qualità del loro lavoro è merito di chi li ha formati e selezionati. Condividere i tuoi Dati-Operai garantisce il tuo investimento nella tua professione.&lt;/p&gt;
+
+&lt;h4&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; Prescrizioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Un’attività è la lavorazione minima all’interno di un cantiere.&lt;/li&gt;
+  &lt;li&gt;Le storie sono un’unità minima del progetto.&lt;/li&gt;
+  &lt;li&gt;Ho definito la mia squadra di Dati-Operai e sono autonomo nel gestirla.&lt;/li&gt;
+  &lt;li&gt;I Dati-Operai concludono sempre un’attività.&lt;/li&gt;
+  &lt;li&gt;Ogni attività dei Dati-Operai può essere la base di altre nuove attività.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Prevenzioni&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sono riuscito a distinguere i Dati-Operai dalle attività svolgono?&lt;/li&gt;
+  &lt;li&gt;La mia squadra di Dati-Operai può svolgere attività in autonomia?&lt;/li&gt;
+  &lt;li&gt;La mia squadra di Dati-Operai svolge già delle attività esterne alle mie?&lt;/li&gt;
+  &lt;li&gt;Le attività degli Dati-Operai possono essere comprese dai non-addetti-ai-lavori?&lt;/li&gt;
+  &lt;li&gt;Quanto posso riusare per ogni attività svolta?&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I ruoli</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-07T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/i-ruoli</id>
+   <content type="html">&lt;h2&gt;I RUOLI&lt;/h2&gt;
+
+&lt;p&gt;Tutte le persone hanno un obiettivo: realizzare il progetto. Per farlo hanno a loro disposizione gli Operai, ovvero i loro Dati. Ogni Capocantiere dispone o crea la propria squadra di Dati-Operai e inizia a svolgere la sua attività.&lt;/p&gt;
+
+&lt;h4&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; Prescrizioni&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Il Committente è il dirigente che crea la richiesta di progetto.&lt;/li&gt;
+  &lt;li&gt;Il Direttore Lavori (definisce e controlla lo Stato Avanzamento Lavori (&lt;em&gt;backlog&lt;/em&gt;) e la coerenza con il progetto e riporta al Committente le indicazioni del Capocantiere.&lt;/li&gt;
+  &lt;li&gt;Il Capocantiere controlla le risorse e l’avanzamento del cantiere e ottimizza le attività dei Capi Squadra.&lt;/li&gt;
+  &lt;li&gt;I Capi Squadra formano le squadre degli Operai e ne individuano le attività.&lt;/li&gt;
+  &lt;li&gt;Gli Operai sono i Dati e svolgono i compiti nel cantiere per realizzare il progetto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Prevenzioni&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Il progetto è stato suddiviso in attività minime che abbiano un inizio e una fine?&lt;/li&gt;
+  &lt;li&gt;Il Committente è autonomo nelle scelte sullo specifico progetto?&lt;/li&gt;
+  &lt;li&gt;Il Direttore Lavori è interno o esterno alla struttura del Committente?&lt;/li&gt;
+  &lt;li&gt;Il Capocantiere è in grado di suggerire miglioramenti al progetto in base alle indicazioni dei Capisquadra?&lt;/li&gt;
+  &lt;li&gt;Ci sono Dati-Operai che rispondono a più Capisquadra?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La sicurezza nel cantiere</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-06T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/sicurezza</id>
+   <content type="html">&lt;h2&gt;LA SICUREZZA NEL CANTIERE&lt;/h2&gt;
+
+&lt;p&gt;Le misure per la sicurezza nel cantiere è l’insieme delle &lt;em&gt;prescrizioni&lt;/em&gt; e delle &lt;em&gt;prevenzioni&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; Le prescrizioni sono le condizioni attraverso le quali si può mantenere il cantiere e i suoi lavoratori sicuri, efficaci, efficienti e soddisfatti&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Le prevenzioni sono le verifiche da compiere per evitare rischi al cantiere stesso ma, soprattutto, alla salute (fisica e mentale) dei lavoratori&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#i-ruoli&quot;&gt;&lt;i class=&quot;fa fa-2x fa-users&quot;&gt;&lt;/i&gt;&lt;/a&gt; // &lt;a href=&quot;#cantiere-aperto&quot;&gt;&lt;i class=&quot;fa fa-2x fa-cogs&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#i-ruoli&quot;&gt;&lt;i class=&quot;fa fa-3x fa-chevron-down&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Indice&lt;/h4&gt;
+&lt;p&gt;&lt;small&gt;
+&lt;a href=&quot;#i-ruoli&quot;&gt;1. I ruoli&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#cantiere-aperto&quot;&gt;2. Il lavoro nel cantiere&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/small&amp;gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Architetture</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-05T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/architetture</id>
+   <content type="html">&lt;h2&gt;&lt;a href=&quot;#glossario&quot;&gt;&lt;i class=&quot;fa fa-angle-up&quot;&gt;&lt;/i&gt;&lt;/a&gt; ARCHITETTURE &lt;a href=&quot;#sicurezza&quot;&gt;&lt;i class=&quot;fa fa-angle-down&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LIVELLO 1&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: Committente - Progettista.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Descrizione&lt;/strong&gt;: E’ il livello zero, quella in cui si valuta il progetto con il committente  e si ipotizza la struttura del cantiere con il Direttore Lavori.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;Verificare le richieste.&lt;/li&gt;
+          &lt;li&gt;Comporre le priorità.&lt;/li&gt;
+          &lt;li&gt;Definire MVP (minimum value product) ovvero la base minina per cui il progetto è pronto.&lt;/li&gt;
+          &lt;li&gt;Definire i tempi.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LIVELLO 2&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: Committente - Direttore Lavori.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Descrizione&lt;/strong&gt;: E’ il primo livello, quella in cui il Committente definisce la sua richiesta e il Direttore Lavori costruisce i requisiti.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;Individua i requisiti.&lt;/li&gt;
+          &lt;li&gt;Redige il backlog.&lt;/li&gt;
+          &lt;li&gt;Individua i Capicantiere.&lt;/li&gt;
+          &lt;li&gt;Assegna le risorse.&lt;/li&gt;
+          &lt;li&gt;Assegna i tempi.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LIVELLO 3&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: DIirettore Lavori - Capocantiere.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Descrizione&lt;/strong&gt;: E’ il secondo livello, in cui il Direttore Lavori coordina i requisiti e il Capocantiere definisce le attività.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;concordano le risorse.&lt;/li&gt;
+          &lt;li&gt;costituiscono i gruppi.&lt;/li&gt;
+          &lt;li&gt;stabilisco le verifiche.&lt;/li&gt;
+          &lt;li&gt;individuano i cicli di sprint.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LIVELLO 4&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: Capocantiere - Capi Squadra.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Descrizione&lt;/strong&gt;: E’ il terzo livello, in cui il Capocantiere definisce i compiti e i capi squadra selezionano le squadre.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;Concordano le attività negli sprint.&lt;/li&gt;
+          &lt;li&gt;Si costruiscono le storie (insieme di compiti che costituiscono le attività).&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Planning poker&lt;/em&gt; (si assegnano le carte dei punteggi di valore (&lt;em&gt;1&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;).&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LIVELLO 5&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: Capi Squadra - Capi Squadra.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Descrizione&lt;/strong&gt;: E’ il quarto livello, in cui i capi squadra coordinano le squadre e definiscono le gerarchie.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;Controllo di sovrapposizione dei Dati-Operai (se più Capisquadra usano stessi Dati-Operai).&lt;/li&gt;
+          &lt;li&gt;Controllo di coerenza nell’assegnazione dei valori del planning pocker.&lt;/li&gt;
+          &lt;li&gt;Definizione delle competenze.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LIVELLO 6&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Ruoli&lt;/strong&gt;: Capi Squadra - Dati-Operai.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;em&gt;*Descrizione&lt;/em&gt;: E’ il quinto e ultimo livello, nel quale i capi squadra selezionano e monitorano gli Dati-Operai.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Attività&lt;/strong&gt;:&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;Modalità di uso dei Dati-Operai.&lt;/li&gt;
+          &lt;li&gt;Modalità di accesso ai Dati-Operai.&lt;/li&gt;
+          &lt;li&gt;Livelli di automazione.&lt;/li&gt;
+          &lt;li&gt;Tipologia dei Dati-Operai.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Glossario</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-04T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/glossario</id>
+   <content type="html">&lt;h2&gt;GLOSSARIO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Backlog&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; è l’elenco delle attività e delle storie che vengono scelte/svolte dai membri del gruppo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;MVP&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://it.wikipedia.org/wiki/Minimum_Viable_Product&quot;&gt;Minimum Value Product&lt;/a&gt; la parte essenziale di cosa si vuole realizzare. Le caratteristiche minime che caratterizzano il progetto&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ciclo PDCA&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Plan, Do, Check, Act ovvero le quattro fasi da ripetere ciclicamente: pianificare, fare, controllare e applicare&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sprint&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Gli Sprint sono detti anche “time boxes” perché hanno una durata fissa: uno Sprint è un ciclo di PDCA all’interno di un progetto&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sprint retrospetive&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; l’autovalutazione di gruppo rispetto ad uno sprint composta di 4 domande:
+    &lt;ul&gt;
+      &lt;li&gt;da 1 a 5 come valuti il tuo ruolo?&lt;/li&gt;
+      &lt;li&gt;da 1 a 5 come valuti l’azienda nel suo complesso?&lt;/li&gt;
+      &lt;li&gt;perché hai questa percezione?&lt;/li&gt;
+      &lt;li&gt;cosa ti renderebbe più felice nel prossimo Sprint?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Storie (&lt;em&gt;user stories&lt;/em&gt;)&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; una storia è la formulazione di un’attività con la definizione del “come” e “in quanto tempo”. Una storia deve rispondere ai requisiti INVEST &lt;em&gt;Independent&lt;/em&gt;, &lt;em&gt;Negotiable&lt;/em&gt;, &lt;em&gt;Valuable&lt;/em&gt;, &lt;em&gt;Estimable&lt;/em&gt;, &lt;em&gt;Small&lt;/em&gt;, &lt;em&gt;Testable&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attività&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; cosa viene svolto da un membro del gruppo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compiti&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; l’assegnazione ai membri del gruppo delle attività in base ai requisiti del progetto e del backlog&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Planning poker&lt;/strong&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; si assegnano i valori ad ogni attività con un punteggio (&lt;em&gt;1&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lo schema circolare</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-03T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/schema</id>
+   <content type="html">&lt;h2&gt;LO SCHEMA CIRCOLARE&lt;/h2&gt;
+
+&lt;p&gt;Il cantiere è la realizzazione di un progetto. Il progetto è frutto di un &lt;a href=&quot;https://it.wikipedia.org/wiki/Modello_incrementale&quot;&gt;modello incrementale&lt;/a&gt; che inizia da una commissione fatta da un dirigente (o il titolare dei dati e dei servizi) che definisce in modo chiaro la richiesta. La gestione e la definizione dei requisiti di costruzione è affidata al progettista, ovvero &lt;a href=&quot;http://www.opensensorsdata.it/#about-me&quot;&gt;osd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;Cantiere&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; realizzazione di un progetto di riuso/applicazione dati&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Committente&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; dirigente o committente che definisce la richiesta&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Progettista&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; gestione e definizione dei requisiti di costruzione del progetto&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Direttore Lavori&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; redige e controlla le attività/stato avanzamento lavori (backlog), valuta con Capicantiere la coerenza con le richieste del Committente&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Capocantiere&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; controlla le risorse e l’avanzamento delle specifiche attività e ottimizza il lavoro dei Capisquadra&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Capisquadra&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; selezionano i database e le fonti dati necessarie e coordinano il flusso di dati (Dati-Operai)&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Dati-Operai&lt;/code&gt; &lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; i dati, ovvero gli agenti minimi prodotti o aggregati dai vari ruoli indicati prima&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A chi si rivolge</title>
+   <link href="http://masterplan.opensensorsdata.it/"/>
+   <updated>2000-01-02T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/a-chi-si-rivolge</id>
+   <content type="html">&lt;h2&gt;A CHI SI RIVOLGE&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alle imprese&lt;/strong&gt;, perché possano progettare attività adeguate a supportare lo sviluppo di open business model, ovvero quei modelli usati dalle compagnie per creare e catturare valore in modo sistematico, collaborando con partner esterni e migliorando la collaborazione dei team interni.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alle strutture pubbliche&lt;/strong&gt;, perchè possano disporre di un metodo affidabile di creazione e gestione di  microstrutture trasversali. Queste strutture, o team cross-funzionali, sono composte da diverse professionalità e sono finalizzate ad attività di produzione e condivisione di dati (per vari scopi come promozione, adempimenti normativi ecc ecc).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Al singolo componente di un team&lt;/strong&gt;, perché possa  operare con un metodo che è già armonizzato con le strutture con cui si rapporta.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>masterplan</title>
+   <link href="http://masterplan.opensensorsdata.it/intro"/>
+   <updated>2000-01-01T00:00:00+01:00</updated>
+   <id>http://masterplan.opensensorsdata.it/intro</id>
+   <content type="html">&lt;h3 class=&quot;text-osd-purple&quot;&gt;&lt;em&gt;build it!&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;span class=&quot;fa-stack subtlecircle&quot; style=&quot;font-size:100px; background:rgba(255,255,255,1)&quot;&gt;
+  &lt;img src=&quot;img/projectopendata_logo.svg&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 class=&quot;text-osd-purple&quot;&gt;Masterplan&lt;/h1&gt;
+
+&lt;p&gt;Il &lt;a href=&quot;https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizione&quot;&gt;Masterplan&lt;/a&gt; è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli e condividere dati. Si concentra sugli obiettivi operativi e strategici per implementare con più efficacia gli elementi canonici dei tradizionali modelli di business, come &lt;em&gt;valore&lt;/em&gt;, &lt;em&gt;segmento&lt;/em&gt; e &lt;em&gt;guadagno&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;by&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.opensensorsdata.it&quot;&gt;&lt;img src=&quot;img/osd_logo.svg&quot; alt=&quot;opensensorsdata logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;forkongithub&quot;&gt;
+  &lt;a href=&quot;https://github.com/t413/SinglePaged&quot; class=&quot;bg-osd-blue&quot;&gt;
+    fork me on osd
+  &lt;/a&gt;
+&lt;/span&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

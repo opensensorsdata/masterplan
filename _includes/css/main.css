@@ -251,10 +251,10 @@ nav ul li:hover, nav ul li.active {
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
-  letter-spacing: 2rem;
+  letter-spacing: 1rem;
   position:absolute;
   left:50%;
-  margin-left:-135px;
+  margin-left:-125px;
 }
 
 .columned {
