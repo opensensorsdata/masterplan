@@ -2,7 +2,7 @@
 title: A chi si rivolge
 nav-icon: <i class="fa fa-user-plus"></i>
 bg: rosso
-color: black
+color: white
 fa-icon: user-plus
 permalink: a-chi-si-rivolge
 ---
