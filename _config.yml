@@ -1,7 +1,7 @@
 ---
 
-port: 4000
-host: 0.0.0.0
+url:         http://masterplan.opensensorsdata.it
+## baseurl:     /
 safe: false
 
 
@@ -29,6 +29,7 @@ author:
   url:            'https://twitter.com/osd_it'
   twitter:        'osd_it'
   facebook:       'https://www.facebook.com/opensensorsdata'
+  mail:           'contact@opensensorsdata.it'
 
 
 ### social profile
