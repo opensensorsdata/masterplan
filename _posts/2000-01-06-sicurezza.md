@@ -5,6 +5,7 @@ bg: ciano
 color: black
 fa-icon: medkit
 style: center
+permalink: sicurezza
 ---
 
 

@@ -4,6 +4,7 @@ nav-icon: <i class="fa fa-comments-o"></i>
 bg: giallo
 color: black
 fa-icon: comments-o
+permalink: tempi-comunicazione
 ---
 
 ## I TEMPI DI COMUNICAZIONE

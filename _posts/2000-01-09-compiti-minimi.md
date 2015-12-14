@@ -4,6 +4,7 @@ nav-icon: <i class="fa fa-puzzle-piece"></i>
 bg: arancio
 color: black
 fa-icon: puzzle-piece
+permalink: compiti-minimi
 ---
 
 ## COMPITI MINIMI

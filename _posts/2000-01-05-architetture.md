@@ -4,7 +4,7 @@ nav-icon: <i class="fa fa-building-o"></i>
 bg: verde
 color: black
 fa-icon: building-o
-permalink: #architetture
+permalink: architetture
 ---
 
 

@@ -4,6 +4,7 @@ nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
 color: black
 fa-icon: cogs
+permalink: cantiere-aperto
 ---
 
 ## IL LAVORO NEL CANTIERE

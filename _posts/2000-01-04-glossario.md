@@ -4,6 +4,7 @@ nav-icon: <i class="fa fa-language"></i>
 bg: giallo
 color: black
 fa-icon: language
+permalink: glossario
 ---
 
 ## GLOSSARIO
