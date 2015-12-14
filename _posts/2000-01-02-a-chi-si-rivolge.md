@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-user-plus"></i>
+nav-icon: <i class="fa fa-user-plus"></i>
+title: A chi si rivolge
 bg: rosso
 color: black
 fa-icon: user-plus
