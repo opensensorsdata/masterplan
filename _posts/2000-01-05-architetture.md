@@ -7,22 +7,22 @@ fa-icon: building-o
 ---
 
 
-## ARCHITETTURE 
+## [<i class="fa fa-angle-down"></i>](#glossario) ARCHITETTURE [<i class="fa fa-angle-up"></i>](#sicurezza)
 
 sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
 
-### LIVELLO 0 
+0. LIVELLO 0** 
 
-**Ruoli: COMMITTENTE - PROGETTISTA**
+	* **Ruoli**: COMMITTENTE - PROGETTISTA
 
-*Descrizione*: E’ il livello zero, quella in cui si valuta il progetto con il committente  e si ipotizza la struttura del cantiere con il Direttore Lavori.
+	* **Descrizione**: E’ il livello zero, quella in cui si valuta il progetto con il committente  e si ipotizza la struttura del cantiere con il Direttore Lavori.
 
-#### Attività: 
+	* **Attività**: 
 
-* verificare le richieste
-* comporre le priorità
-* definire MVP (minimum value product) ovvero la base minina per cui il progetto è pronto
-* definire i tempi
+		1. verificare le richieste
+		2. comporre le priorità
+		3. definire MVP (minimum value product) ovvero la base minina per cui il progetto è pronto
+		4. definire i tempi
 
 ### LIVELLO 1 
 

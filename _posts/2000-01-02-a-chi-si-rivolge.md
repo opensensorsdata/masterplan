@@ -4,6 +4,7 @@ nav-icon: <i class="fa fa-user-plus"></i>
 bg: rosso
 color: black
 fa-icon: user-plus
+permalink: "a-chi-si-rivolge"
 ---
 
 
