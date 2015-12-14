@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-building-o"></i>
+title: Architetture
+nav-icon: <i class="fa fa-building-o"></i>
 bg: verde
 color: black
 fa-icon: building-o

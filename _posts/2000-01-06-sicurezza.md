@@ -1,5 +1,6 @@
 ---
-title: <i class="fa fa-medkit"></i>
+title: La sicurezza nel cantiere
+nav-icon: <i class="fa fa-medkit"></i>
 bg: ciano
 color: black
 fa-icon: medkit

@@ -3,8 +3,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="it">
 <head>
-
-  {% include opengraph.html %}
+{% include opengraph.html %}
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +66,7 @@
         <div class="container {{ page.style }}">
           {{ page.content }}
         </div>
-        <div class=subtlecircle sectiondivider faicon">
+        <div class="subtlecircle sectiondivider faicon">
           <small>condividi su </small> 
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.author.twitter }}&related={{ site.author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-2x fa-twitter-square"></i></a>
           <small>condividi su </small> 
