@@ -1,5 +1,5 @@
 ---
-title: IL LAVORO NEL CANTIERE
+title: I DATI-OPERAI
 nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
 color: black
@@ -7,7 +7,7 @@ fa-icon: cogs
 safe: <i class="fa fa-medkit"></i>
 permalink: lavoro-nel-cantiere
 prev: i-ruoli
-post: compiti-minimi
+post: i-compiti
 ---
 
 

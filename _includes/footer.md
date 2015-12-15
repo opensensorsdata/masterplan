@@ -20,10 +20,6 @@
 
 
 
+<small>Credits: il sito è un fork di [SinglePaged theme](https://github.com/t413/SinglePaged), un sito [open source]({{ site.source_link }}) di Tim O'Brien [t413.com](http://t413.com/) </small>
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
 

@@ -27,7 +27,7 @@ post: architetture
 	* Snella *(le tre azioni: per chi, per cosa, perché | azione, segmento, risultato)*
 	* Testabile *(la Storia Utente deve essere verificata attraverso un test)*
 
-- **Compiti** <i class="fa fa-long-arrow-right"></i> un compito è la scomposizione di una Storia Utente in obiettivi minimi (*soggetto*, *verbo*, *complemento oggetto*) in base ai requisiti del progetto e del *Backlog*. Un compito è composto da: 
+- **Compiti** <i class="fa fa-long-arrow-right"></i> un compito è l'elemento di una Storia Utente; esso è descritto in forma semplice e diretta in base ai requisiti del progetto e del *Backlog*. Un compito è composto da: 
 
 	1. chi lo svolge (*soggetto*);  
 	2. obiettivo: 
@@ -38,9 +38,9 @@ post: architetture
 	3. in quanto tempo;
 	4. il valore (definito attraverso il *Planing Poker*);
 
-- **Planning poker** <i class="fa fa-long-arrow-right"></i> è il sistema con cui i Capicantiere e Capi Squadra contrattano i valori ad ogni Storia Utente con un punteggio (*1*, *3*, *5*, *8*, *13*) e lo propongono al Direttore ai Lavori che lo inserisce nel *Backlog*
+- **Planning poker** <i class="fa fa-long-arrow-right"></i> i Capicantiere e Capi Squadra assegnano un punteggio (*1*, *3*, *5*, *8*, *13*) ad ogni Storia Utente e lo propongono al Direttore ai Lavori.
 
-- **MVP** <i class="fa fa-long-arrow-right"></i> [Minimum Value Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) la parte essenziale di cosa si vuole realizzare. Le caratteristiche minime che caratterizzano il progetto 
+- **MVP** <i class="fa fa-long-arrow-right"></i> il [Minimum Vaible Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) è il Prodotto Minimo Funzionante, ovvero l'obiettivo di ogni Storia Utente. Il risultato di una Storia Utente deve essere un prodotto le cui funzioni sono ridotte a quelle essenziali che, di fatto, definiscono il prodotto stesso. Declinare le Storie Utente in funzione dell'MVP evita di sviluppare progetti troppo onerosi in termini sia di tempo che di risorse.
 
 - **Ciclo PDCA** <i class="fa fa-long-arrow-right"></i> PDCA è l'acronimo inglese di *Plan*, *Do*, *Check*, *Act* ovvero le quattro fasi da ripetere ciclicamente: 
 

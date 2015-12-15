@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Masterplan // Build it!"
 keywords:    "project, opendata, open businell model, condivisione, riuso"
 description: "Il Masterplan è un modello concettuale,  pensato per armonizzare obiettivi di business, organizzazione dei ruoli e condivisione di dati. Si concentra sugli obiettivi operativi e strategici per consentire un’implementazione più efficace degli elementi canonici dei tradizionali business model, i.e. valore, segmento e guadagno"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/opensensorsdata/masterplan"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)

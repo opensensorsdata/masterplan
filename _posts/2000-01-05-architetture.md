@@ -56,7 +56,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 	* **Ruoli**: Capocantiere - Capi Squadra.
 
-	* **Descrizione**: E’ il terzo livello, in cui il Capocantiere definisce i compiti e i capi squadra selezionano le squadre.
+	* **Descrizione**: E’ il terzo livello, in cui il Capocantiere definisce i compiti e i Capi Squadra selezionano le squadre.
 
 	* **Attività**:
 
@@ -68,11 +68,11 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 	* **Ruoli**: Capi Squadra - Capi Squadra.
 
-	* **Descrizione**: E’ il quarto livello, in cui i capi squadra coordinano le squadre e definiscono le gerarchie.
+	* **Descrizione**: E’ il quarto livello, in cui i Capi Squadra coordinano le squadre e definiscono le gerarchie.
 
 	* **Attività**:
 
-		1. Controllo di sovrapposizione dei Dati-Operai (se più Capisquadra usano stessi Dati-Operai).
+		1. Controllo di sovrapposizione dei Dati-Operai (se più Capi Squadra usano stessi Dati-Operai).
 		2. Controllo di coerenza nell’assegnazione dei valori del planning pocker.
 		3. Definizione delle competenze.
 
@@ -80,7 +80,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 	* **Ruoli**: Capi Squadra - Dati-Operai.
 
-	* **Descrizione**: E’ il quinto e ultimo livello, nel quale i capi squadra selezionano e monitorano gli Dati-Operai. 
+	* **Descrizione**: E’ il quinto e ultimo livello, nel quale i Capi Squadra selezionano e monitorano gli Dati-Operai. 
 
 	* **Attività**:
 
