@@ -12,7 +12,7 @@ post: sicurezza
 
 sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
 
-1. **LIVELLO 1** 
+1. LIVELLO 1 
 
 	* **Ruoli**: Committente - Progettista.
 
@@ -25,7 +25,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 		3. Definire MVP (minimum value product) ovvero la base minina per cui il progetto è pronto.
 		4. Definire i tempi.
 
-2. **LIVELLO 2** 
+2. LIVELLO 2 
 
 	* **Ruoli**: Committente - Direttore Lavori.
 
@@ -39,7 +39,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 		4. Assegna le risorse.
 		5. Assegna i tempi.
 
-3. **LIVELLO 3** 
+3. LIVELLO 3 
 
 	* **Ruoli**: DIirettore Lavori - Capocantiere.
 
@@ -52,7 +52,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 		3. stabilisco le verifiche.
 		4. individuano i cicli di sprint.
 
-4. **LIVELLO 4** 
+4. LIVELLO 4 
 
 	* **Ruoli**: Capocantiere - Capi Squadra.
 
@@ -64,7 +64,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 		2. Si costruiscono le storie (insieme di compiti che costituiscono le attività).
 		3. *Planning poker* (si assegnano le carte dei punteggi di valore (*1*, *3*, *5*, *8*, *13*).
 
-5. **LIVELLO 5** 
+5. LIVELLO 5 
 
 	* **Ruoli**: Capi Squadra - Capi Squadra.
 

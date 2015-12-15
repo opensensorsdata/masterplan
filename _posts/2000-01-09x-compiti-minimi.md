@@ -15,7 +15,7 @@ post: tempi-comunicazione
 
 Ciascun ruolo ha dei compiti che devono essere definiti in forma semplice e in un ambito definito. L’essenzialità dei compiti aiuta a comporre più facilmente le attività che dovranno produrre sempre degli effetti pratici nel cantiere.                                   
 
-#### Prescrizioni
+#### <i class="fa fa-exclamation-circle"></i> Prescrizioni
 
 1. L’efficacia dei Capisquadra è il numero di errori che riescono ad individuare.
 2. L’efficienza dei Capisquadra è la velocità con cui risolvono gli errori. 
