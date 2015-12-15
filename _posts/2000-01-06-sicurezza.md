@@ -11,7 +11,9 @@ post: i-ruoli
 ---
 
 <br>
+
 | [<i class="fa fa-2x fa-users"></i>](#i-ruoli) | [<i class="fa fa-2x fa-cogs"></i>](#lavoro-nel-cantiere) | [<i class="fa fa-2x fa-puzzle-piece"></i>](#compiti-minimi) | [<i class="fa fa-2x fa-comments-o"></i>](#tempi-comunicazione) | [<i class="fa fa-2x fa-cube"></i>](#sviluppare-piccoli-moduli) | [<i class="fa fa-2x fa-compass"></i>](#pianificare) | [<i class="fa fa-2x fa-bell-o"></i>](#fare) | [<i class="fa fa-2x fa-eye"></i>](#controllare) | [<i class="fa fa-2x fa-check-square-o"></i>](#applicare) |
+
 <br>
 
 Le misure per la sicurezza nel cantiere è l’insieme delle *prescrizioni* e delle *prevenzioni* 
