@@ -5,10 +5,10 @@ bg: verde
 color: black
 fa-icon: building-o
 permalink: architetture
+prev: glossario
+post: sicurezza
 ---
 
-
-## [<i class="fa fa-angle-up"></i>](#glossario) ARCHITETTURE [<i class="fa fa-angle-down"></i>](#sicurezza)
 
 sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
 
