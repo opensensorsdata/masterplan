@@ -7,7 +7,7 @@ fa-icon: cogs
 safe: <i class="fa fa-medkit"></i>
 permalink: lavoro-nel-cantiere
 prev: i-ruoli
-post: i-compiti
+post: la-storia-utente
 ---
 
 

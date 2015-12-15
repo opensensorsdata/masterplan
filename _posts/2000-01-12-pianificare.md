@@ -6,7 +6,7 @@ color: black
 fa-icon: compass
 safe: <i class="fa fa-medkit"></i>
 permalink: pianificare
-prev: sviluppare-piccoli-moduli
+prev: tempi-comunicazione
 post: fare
 ---
 

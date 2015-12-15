@@ -7,7 +7,7 @@ fa-icon: comments-o
 safe: <i class="fa fa-medkit"></i>
 permalink: tempi-comunicazione
 prev: i-compiti
-post: sviluppare-piccoli-moduli
+post: pianificare
 ---
 
 

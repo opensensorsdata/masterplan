@@ -6,8 +6,8 @@ color: black
 fa-icon: cube
 safe: <i class="fa fa-medkit"></i>
 permalink: la-storia-utente
-prev: tempi-comunicazione
-post: pianificare
+prev: i-dati-operai
+post: i-compiti
 ---
 
 
