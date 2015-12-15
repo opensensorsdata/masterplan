@@ -12,7 +12,7 @@ post: i-ruoli
 
 <br>
 
-| [<i class="fa fa-2x fa-users"></i>](#i-ruoli) | [<i class="fa fa-2x fa-cogs"></i>](#i-dati-operai) | [<i class="fa fa-2x fa-cube"></i>](#la-storia-utente) | [<i class="fa fa-2x fa-puzzle-piece"></i>](#i-compiti) | [<i class="fa fa-2x fa-comments-o"></i>](#tempi-di-comunicazione) | [<i class="fa fa-2x fa-compass"></i>](#pianificare) | [<i class="fa fa-2x fa-bell-o"></i>](#fare) | [<i class="fa fa-2x fa-eye"></i>](#controllare) | [<i class="fa fa-2x fa-check-square-o"></i>](#applicare) |
+| [<i class="fa fa-2x fa-users"></i>](#i-ruoli) | [<i class="fa fa-2x fa-cogs"></i>](#i-dati-operai) | [<i class="fa fa-2x fa-cube"></i>](#la-storia-utente) | [<i class="fa fa-2x fa-puzzle-piece"></i>](#i-compiti) | [<i class="fa fa-2x fa-comments-o"></i>](#tempi-comunicazione) | [<i class="fa fa-2x fa-compass"></i>](#pianificare) | [<i class="fa fa-2x fa-bell-o"></i>](#fare) | [<i class="fa fa-2x fa-eye"></i>](#controllare) | [<i class="fa fa-2x fa-check-square-o"></i>](#applicare) |
 
 <br>
 <br>
