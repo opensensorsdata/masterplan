@@ -3,7 +3,7 @@ title: Applicare
 nav-icon: <i class="fa fa-check-square-o"></i>
 bg: arancio
 color: black
-fa-icon: square-o
+fa-icon: check-square-o
 safe: <i class="fa fa-medkit"></i>
 permalink: applicare
 ---
