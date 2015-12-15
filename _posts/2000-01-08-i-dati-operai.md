@@ -2,7 +2,7 @@
 title: I DATI-OPERAI
 nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
-color: black
+color: white
 fa-icon: cogs
 safe: <i class="fa fa-medkit"></i>
 permalink: lavoro-nel-cantiere

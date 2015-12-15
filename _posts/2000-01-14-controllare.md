@@ -11,9 +11,6 @@ post: applicare
 ---
 
 
-(inserire nelle domande le tre cardine: cosa ho fatto?/cosa farò?/che impedimenti?)
-
-
 La verifica si fa sul modo con cui si sono svolti i compiti. Migliorare vuol dire introdurre i correttivi giusti per ottenere anche lo stesso risultato ma non minore sforzo o tempo. L’errore fa parte del ciclo produttivo
 
 #### <i class="fa fa-exclamation-circle"></i> Prescrizioni
