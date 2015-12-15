@@ -1,14 +1,15 @@
 ---
-title: Il lavoro nel cantiere
+title: IL LAVORO NEL CANTIERE
 nav-icon: <i class="fa fa-cogs"></i>
 bg: rosso
 color: black
 fa-icon: cogs
 safe: <i class="fa fa-medkit"></i>
-permalink: cantiere-aperto
+permalink: lavoro-nel-cantiere
+prev: i-ruoli
+post: compiti-minimi
 ---
 
-## [<i class="fa fa-angle-up"></i>](#i-ruoli) IL DATI-OPERAI NEL CANTIERE [<i class="fa fa-angle-down"></i>](#compiti-minimi)
 
 Se c’è un cantiere c’è anche chi lo guarda. I Dati-Operai sono i loro migliori testimoni delle competenze di ogni persona coinvolta nel Cantiere e svolgono le attività che ogni Capo Squadra ha definito: la qualità del lavoro dei Dati-Operai è determinato di chi li ha prodotti, formati e selezionati. Condividere i propri Dati-Operai è il miglior investimento nella professione di ogni persona nel Cantiere. 
 

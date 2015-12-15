@@ -1,14 +1,15 @@
 ---
-title: Applicare
+title: APPLICARE
 nav-icon: <i class="fa fa-check-square-o"></i>
 bg: arancio
 color: black
 fa-icon: check-square-o
 safe: <i class="fa fa-medkit"></i>
 permalink: applicare
+prev: controllare
+post: footer
 ---
 
-## [<i class="fa fa-angle-up"></i>](#controllare) APPLICARE [<i class="fa fa-angle-down"></i>](#footer)
 
 Inserire i correttivi nel ciclo per risolvere gli impedimenti. Non si deve cercare di eliminare gli impedimenti, quanto a migliorare la velocità di reazione e la fantasia nell’individuarli e risolverli
 prescrizioni

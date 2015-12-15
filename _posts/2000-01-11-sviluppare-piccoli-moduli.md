@@ -1,16 +1,14 @@
 ---
-title: Sviluppare a piccoli moduli
+title: SVILUPPARE A PICCOLI MODULI
 nav-icon: <i class="fa fa-cube"></i>
 bg: verde
 color: black
 fa-icon: cube
 safe: <i class="fa fa-medkit"></i>
 permalink: sviluppare-piccoli-passi
+prev: tempi-comunicazione
+post: pianificare
 ---
-
-## [<i class="fa fa-angle-up"></i>](#tempi-comunicazione) SVILUPPARE A PICCOLI MODULI [<i class="fa fa-angle-down"></i>](#pianificare)
-
-
 
 
 La costruzione di una storia significa individuare dei compiti che si inseriscono in attività semplici e comprensibili a tutti. 

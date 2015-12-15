@@ -5,9 +5,10 @@ bg: giallo
 color: black
 fa-icon: language
 permalink: glossario
+prev: schema
+post: architetture
 ---
 
-## [<i class="fa fa-angle-up"></i>](#schema) GLOSSARIO [<i class="fa fa-angle-down"></i>](#architetture)
 
 - **Product Owner** <i class="fa fa-long-arrow-right"></i> è il termine tecnico del Direttore ai lavori; mantiene il lavoro focalizzato su visione e valore (e gestisce il *Backlog*). 
 
@@ -18,6 +19,7 @@ permalink: glossario
 - **Backlog** <i class="fa fa-long-arrow-right"></i> viene definito dal Direttore ai Lavori (*Product Owner*); è l’elenco delle delle Storie Utente che vengono concordate e svolte dai Capi Squadra per completare delle parti del Progetto.
 
 - **Storie Utente (*user stories*)** <i class="fa fa-long-arrow-right"></i> una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo”. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
+
 	* Indipendente *(non deve dipendere da altre Storie Utente)*
 	* Negoziabile *(se la Storia Utente è già stata svolta deve potersi trasformare)*
 	* Valorizzante *(deve produrre valore per qualcuno)*
@@ -26,10 +28,13 @@ permalink: glossario
 	* Testabile *(la Storia Utente deve essere verificata attraverso un test)*
 
 - **Compiti** <i class="fa fa-long-arrow-right"></i> un compito è la scomposizione di una Storia Utente in obiettivi minimi (*soggetto*, *verbo*, *complemento oggetto*) in base ai requisiti del progetto e del *Backlog*. Un compito è composto da: 
+
 	1. chi lo svolge (*soggetto*);  
 	2. obiettivo: 
+
 		- come (*verbo*)
 		- cosa (*complemento oggetto*)
+
 	3. in quanto tempo;
 	4. il valore (definito attraverso il *Planing Poker*);
 
@@ -38,6 +43,7 @@ permalink: glossario
 - **MVP** <i class="fa fa-long-arrow-right"></i> [Minimum Value Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) la parte essenziale di cosa si vuole realizzare. Le caratteristiche minime che caratterizzano il progetto 
 
 - **Ciclo PDCA** <i class="fa fa-long-arrow-right"></i> PDCA è l'acronimo inglese di *Plan*, *Do*, *Check*, *Act* ovvero le quattro fasi da ripetere ciclicamente: 
+
 	1. Pianificare
 	2. Fare
 	3. Controllare

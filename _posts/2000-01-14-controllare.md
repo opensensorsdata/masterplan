@@ -1,14 +1,15 @@
 ---
-title: Controllare
+title: CONTROLLARE
 nav-icon: <i class="fa fa-eye"></i>
 bg: rosso
 color: white
 fa-icon: eye
 safe: <i class="fa fa-medkit"></i>
 permalink: controllare
+prev: fare
+post: applicare
 ---
 
-## [<i class="fa fa-angle-up"></i>](#fare) CONTROLLARE [<i class="fa fa-angle-down"></i>](#applicare)
 
 (inserire nelle domande le tre cardine: cosa ho fatto?/cosa farò?/che impedimenti?)
 

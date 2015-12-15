@@ -1,14 +1,14 @@
 ---
-title: Pianificare
+title: PIANIFICARE
 nav-icon: <i class="fa fa-compass"></i>
 bg: ciano
 color: black
 fa-icon: compass
 safe: <i class="fa fa-medkit"></i>
 permalink: pianificare
+prev: sviluppare-piccoli-moduli
+post: fare
 ---
-
-## [<i class="fa fa-angle-up"></i>](#sviluppare-piccoli-moduli) PIANIFICARE [<i class="fa fa-angle-down"></i>](#fare)
 
 
 Le attività devono essere coerenti e funzionali al MVP delle richieste. Pianificare significa assegnare un valore e un tempo alle attività. Il tempo corretto è quello che non richiede straordinari.

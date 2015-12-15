@@ -1,14 +1,15 @@
 ---
-title: I tempi di comunicazione
+title: I TEMPI DI COMUNICAZIONE
 nav-icon: <i class="fa fa-comments-o"></i>
 bg: giallo
 color: black
 fa-icon: comments-o
 safe: <i class="fa fa-medkit"></i>
 permalink: tempi-comunicazione
+prev: compiti-minimi
+post: sviluppare-piccoli-moduli
 ---
 
-## [<i class="fa fa-angle-up"></i>](#compiti-minimi) I TEMPI DI COMUNICAZIONE [<i class="fa fa-angle-down"></i>](#sviluppare-piccoli-moduli)
 
 Ogni ruolo deve sapere che più persone ci sono in squadra, più tempo si dedica alla comunicazione dei compiti e delle attività. La documentazione - solo se è facilmente reperibile e organizzabile -  serve a ridurre il numero delle riunioni. Una formula utile per calcolare i canali di comunicazione (dove *n* è numero di persone) <code>n(n-1)/2</code>
 

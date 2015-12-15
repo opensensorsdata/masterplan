@@ -1,5 +1,5 @@
 ---
-title: Architetture
+title: ARCHITETTURE
 nav-icon: <i class="fa fa-building-o"></i>
 bg: verde
 color: black
@@ -80,7 +80,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 	* **Ruoli**: Capi Squadra - Dati-Operai.
 
-	* **Descrizione*: E’ il quinto e ultimo livello, nel quale i capi squadra selezionano e monitorano gli Dati-Operai. 
+	* **Descrizione**: E’ il quinto e ultimo livello, nel quale i capi squadra selezionano e monitorano gli Dati-Operai. 
 
 	* **Attività**:
 
