@@ -1,5 +1,5 @@
 ---
-title: A chi si rivolge
+title: A CHI SI RIVOLGE
 nav-icon: <i class="fa fa-user-plus"></i>
 bg: rosso
 color: white

@@ -1,5 +1,5 @@
 ---
-title: Glossario
+title: GLOSSARIO
 nav-icon: <i class="fa fa-language"></i>
 bg: giallo
 color: black
