@@ -18,20 +18,20 @@ permalink: glossario
 - **Backlog** <i class="fa fa-long-arrow-right"></i> viene definito dal Direttore ai Lavori (*Product Owner*); è l’elenco delle delle Storie Utente che vengono concordate e svolte dai Capi Squadra per completare delle parti del Progetto.
 
 - **Storie Utente (*user stories*)** <i class="fa fa-long-arrow-right"></i> una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo”. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
-		* Indipendente *(non deve dipendere da altre Storie Utente)*
-		* Negoziabile *(se la Storia Utente è già stata svolta deve potersi trasformare)*
-		* Valorizzante *(deve produrre valore per qualcuno)*
-		* Estimabile *(si deve poterla misurare sia in termini di tempo e di valore)*
-		* Snella *(le tre azioni: per chi, per cosa, perché | azione, segmento, risultato)*
-		* Testabile *(la Storia Utente deve essere verificata attraverso un test)*
+	* Indipendente *(non deve dipendere da altre Storie Utente)*
+	* Negoziabile *(se la Storia Utente è già stata svolta deve potersi trasformare)*
+	* Valorizzante *(deve produrre valore per qualcuno)*
+	* Estimabile *(si deve poterla misurare sia in termini di tempo e di valore)*
+	* Snella *(le tre azioni: per chi, per cosa, perché | azione, segmento, risultato)*
+	* Testabile *(la Storia Utente deve essere verificata attraverso un test)*
 
 - **Compiti** <i class="fa fa-long-arrow-right"></i> un compito è la scomposizione di una Storia Utente in obiettivi minimi (*soggetto*, *verbo*, *complemento oggetto*) in base ai requisiti del progetto e del *Backlog*. Un compito è composto da: 
-		1. chi lo svolge (*soggetto*);  
-		2. obiettivo: 
-			- come (*verbo*)
-			- cosa (*complemento oggetto*)
-		3. in quanto tempo;
-		4. il valore (definito attraverso il *Planing Poker*);
+	1. chi lo svolge (*soggetto*);  
+	2. obiettivo: 
+		- come (*verbo*)
+		- cosa (*complemento oggetto*)
+	3. in quanto tempo;
+	4. il valore (definito attraverso il *Planing Poker*);
 
 - **Planning poker** <i class="fa fa-long-arrow-right"></i> è il sistema con cui i Capicantiere e Capi Squadra contrattano i valori ad ogni Storia Utente con un punteggio (*1*, *3*, *5*, *8*, *13*) e lo propongono al Direttore ai Lavori che lo inserisce nel *Backlog*
 

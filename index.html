@@ -104,12 +104,6 @@
         </div>
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
-          <a href="{{ site.url }}/#{{ page.permalink }}">
-            <span class="fa-stack">
-              <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
-            </span>
-          </a>
           {% if page.safe %}
           <!-- <h5 class="icon-title">{{ page.title }}</h5> -->
           {% endif %}
@@ -118,6 +112,13 @@
         <div class="container {{ page.style }}">
           {% if page.safe %}
           <p style="text-align:center"><a href="{{ site.url }}/#sicurezza"><i class="fa fa-medkit"></i></a></p>
+          {% endif %}
+          {% if page.prev %}
+          <h2>
+            <a href="#{{ page.prev }}"><i class="fa fa-angle-up"></i></a>
+            <a href="{{ site.url }}/#{{ page.permalink }}">{{ page.title }}</a>
+            <a href="#{{ page.post }}"><i class="fa fa-angle-down"></i></a>
+          </h2>
           {% endif %}
           {{ page.content }}
         </div>
