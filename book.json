@@ -1,7 +1,8 @@
 {
     "plugins": [
         "fontsettings",
-        "include"
+        "include",
+        "layout"
     ],
     "pluginsConfig": {}
 }
