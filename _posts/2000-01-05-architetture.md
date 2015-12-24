@@ -10,7 +10,7 @@ post: sicurezza
 ---
 
 
-sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
+Le Architetture sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
 
 1. LIVELLO 1 
 
@@ -41,16 +41,16 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 3. LIVELLO 3 
 
-	* **Ruoli**: DIirettore Lavori - Capocantiere.
+	* **Ruoli**: Direttore Lavori - Capocantiere.
 
 	* **Descrizione**: E’ il secondo livello, in cui il Direttore Lavori coordina i requisiti e il Capocantiere definisce le attività.
 
 	* **Attività**:
 
-		1. concordano le risorse.
-		2. costituiscono i gruppi.
-		3. stabilisco le verifiche.
-		4. individuano i cicli di sprint.
+		1. Concordano le risorse.
+		2. Costituiscono i gruppi.
+		3. Stabilisco le verifiche.
+		4. Individuano i cicli di sprint.
 
 4. LIVELLO 4 
 
@@ -61,8 +61,8 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 	* **Attività**:
 
 		1. Concordano le attività negli sprint.
-		2. Si costruiscono le storie (insieme di compiti che costituiscono le attività).
-		3. *Planning poker* (si assegnano le carte dei punteggi di valore (*1*, *3*, *5*, *8*, *13*).
+		2. Si costruiscono le Storie Utente(insieme di compiti che costituiscono le attività).
+		3. *Planning Poker* (si assegnano le carte dei punteggi di valore (*1*, *3*, *5*, *8*, *13*).
 
 5. LIVELLO 5 
 
@@ -73,7 +73,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 	* **Attività**:
 
 		1. Controllo di sovrapposizione dei Dati-Operai (se più Capi Squadra usano stessi Dati-Operai).
-		2. Controllo di coerenza nell’assegnazione dei valori del planning pocker.
+		2. Controllo di coerenza nell’assegnazione dei valori del Planning Pocker.
 		3. Definizione delle competenze.
 
 6. LIVELLO 6 
@@ -84,7 +84,7 @@ sono i processi di avviamento e gestione del cantiere. L’architettura è compo
 
 	* **Attività**:
 
-		1. Modalità di uso dei Dati-Operai.
-		2. Modalità di accesso ai Dati-Operai.
+		1. Accesso ai Dati-Operai.
+		2. Uso dei Dati-Operai.
 		3. Livelli di automazione.
 		4. Tipologia dei Dati-Operai.

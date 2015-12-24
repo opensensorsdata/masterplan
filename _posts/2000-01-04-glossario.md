@@ -18,7 +18,7 @@ post: architetture
 
 - **Backlog** <i class="fa fa-long-arrow-right"></i> viene definito dal Direttore ai Lavori (*Product Owner*); è l’elenco delle delle Storie Utente che vengono concordate e svolte dai Capi Squadra per completare delle parti del Progetto.
 
-- **Storie Utente (*user stories*)** <i class="fa fa-long-arrow-right"></i> una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo”. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
+- **Storia Utente** <i class="fa fa-long-arrow-right"></i>  (*user stories*) una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo*. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
 
 	* Indipendente *(non deve dipendere da altre Storie Utente)*
 	* Negoziabile *(se la Storia Utente è già stata svolta deve potersi trasformare)*

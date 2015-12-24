@@ -15,8 +15,8 @@ Se c’è un cantiere c’è anche chi lo guarda. I Dati-Operai sono i loro migl
 
 #### <i class="fa fa-exclamation-circle"></i> Prescrizioni
 
-1. Un’attività è la lavorazione minima all’interno di un cantiere.
-2. Le [Storie](#glossario) sono un’unità minima del progetto. 
+1. Un’attività è la lavorazione minima all’interno di un Cantiere.
+2. La [Storia Utente](#glossario) è un’unità minima del Progetto. 
 3. Ho definito la mia squadra di Dati-Operai e sono autonomo nel gestirla.
 4. I Dati-Operai concludono sempre un’attività.  
 5. Ogni attività dei Dati-Operai può essere la base di altre nuove attività.
@@ -27,4 +27,4 @@ Se c’è un cantiere c’è anche chi lo guarda. I Dati-Operai sono i loro migl
 2. La mia squadra di Dati-Operai svolge attività in autonomia o in relazione ad altre?
 3. La mia squadra di Dati-Operai svolge già delle attività esterne alle mie?
 4. Le attività degli Dati-Operai possono essere capite (e riusate) dai *non-addetti-ai-lavori*?
-5. Quanto (Dati-Operai, obiettivi) posso riusare per ogni attività svolta?
+5. Quanto (Dati-Operai, compiti) posso riusare per ogni attività svolta?
