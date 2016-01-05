@@ -11,7 +11,7 @@ post: i-compiti
 ---
 
 
-La costruzione di una Storia Utente significa portare i Capi Squadra a scegliere i compiti che si inseriscono nel Progetto e sono facilemente comprensibili a tutti nel Cantiere. L'assegnazione dei punteggi con il *Planing Poker* è sempre frutto di una contrattazione, mai di un'imposizione. Lo scopo di ogni singola Storia Utente deve essere sempre chiaro e condiviso
+La costruzione di una Storia Utente significa portare i Capi Squadra a scegliere i compiti che si inseriscono nel Progetto e sono facilemente comprensibili a tutti nel Cantiere. L'assegnazione dei punteggi con il *Planing Poker* è sempre frutto di una contrattazione, mai di un'imposizione. Lo scopo di ogni singola Storia Utente deve essere sempre chiaro e condiviso.
 
 #### <i class="fa fa-exclamation-circle"></i> Prescrizioni
 

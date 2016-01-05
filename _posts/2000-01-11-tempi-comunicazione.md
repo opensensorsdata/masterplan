@@ -11,7 +11,9 @@ post: pianificare
 ---
 
 
-Ogni Capocantiere deve sapere che più Capi Squadra ci sono nel Cantiere, più tempo si dedica alla comunicazione dei Compiti e delle Storie Utente. La documentazione - solo se è: sintetica, facilmente reperibile e organizzabile - serve a ridurre il numero delle riunioni. La formula per calcolare i canali di comunicazione (dove *n* è numero di persone) è <code>n(n-1)/2</code>
+Ogni Capocantiere deve sapere che più Capi Squadra ci sono nel Cantiere, più tempo si dedica alla comunicazione dei Compiti e delle Storie Utente. La documentazione - solo se è: sintetica, facilmente reperibile e organizzabile - serve a ridurre il numero delle riunioni. La formula per calcolare i canali di comunicazione, dove *n = numero di persone* è 
+
+<code>canali di comunicazione = n(n-1)/2</code>
 
 #### <i class="fa fa-exclamation-circle"></i> Prescrizioni
 

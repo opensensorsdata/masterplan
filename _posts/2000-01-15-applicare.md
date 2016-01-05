@@ -3,7 +3,7 @@ title: APPLICARE
 nav-icon: <i class="fa fa-wrench"></i>
 bg: arancio
 color: black
-fa-icon: check-square-o
+fa-icon: wrench
 safe: <i class="fa fa-medkit"></i>
 permalink: applicare
 prev: controllare

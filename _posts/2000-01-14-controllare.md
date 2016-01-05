@@ -3,7 +3,7 @@ title: CONTROLLARE
 nav-icon: <i class="fa fa-check-square-o"></i>
 bg: rosso
 color: white
-fa-icon: eye
+fa-icon: check-square-o
 safe: <i class="fa fa-medkit"></i>
 permalink: controllare
 prev: fare
