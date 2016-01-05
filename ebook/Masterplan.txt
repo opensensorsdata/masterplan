@@ -1,0 +1,37 @@
+###########
+## Intro ##
+###########
+Il [Masterplan](https://it.wikipedia.org/wiki/Masterplan_(urbanistica)#Definizione) è un modello che descrive i concetti (e le loro relazioni) per armonizzare obiettivi di business, organizzare i ruoli, condividere e riusare dati con licenze aperte. Il Masterplan si concentra sugli obiettivi operativi e strategici per implementare con più efficacia gli elementi canonici dei tradizionali modelli di business, come *valore*, *segmento* e *guadagno*, facendo un uso strategico degli [*opendata*](http://opendatahandbook.org/guide/it/).
+
+
+######################
+## A chi si rivolge ##
+######################
+- **Alle imprese**, perché possano progettare attività adeguate a supportare lo sviluppo di open business model, ovvero quei modelli usati dalle compagnie per creare e catturare valore in modo sistematico, collaborando con partner esterni e migliorando la collaborazione dei team interni.  
+- **Alle strutture pubbliche**, perchè possano disporre di un metodo affidabile di creazione e gestione di  microstrutture trasversali. Queste strutture, o team cross-funzionali, sono composte da diverse professionalità e sono finalizzate ad attività di produzione e condivisione di dati (per vari scopi come promozione, adempimenti normativi ecc ecc).
+- **Al singolo componente di un team**, perché possa  operare con un metodo che è già armonizzato con le strutture con cui si rapporta.
+
+
+#########################
+## Lo schema circolare ##
+#########################
+Il Cantiere è la realizzazione di un Progetto. Il Progetto è frutto di un [modello incrementale](https://it.wikipedia.org/wiki/Modello_incrementale) che inizia da una commissione fatta da un dirigente (o il titolare dei dati e dei servizi) che definisce in modo chiaro la richiesta. La gestione e la definizione dei requisiti di costruzione è affidata al Progettista, ovvero [osd](http://www.opensensorsdata.it/#about-me). 
+
+- <code>Progetto</code> <i class="fa fa-long-arrow-right"></i> è lo schema con cui si gestiscono le conoscenze, le persone e le loro competenze , finalizzato all'obiettivo individuato dal Committente
+
+- <code>Cantiere</code> <i class="fa fa-long-arrow-right"></i> realizzazione di un progetto di riuso/applicazione dati.
+
+- <code>Committente</code> <i class="fa fa-long-arrow-right"></i> dirigente o titolare che definisce la richiesta.
+
+- <code>Progettista</code> <i class="fa fa-long-arrow-right"></i> gestione e definizione dei requisiti di creazione del progetto. 
+
+- <code>Direttore Lavori</code> <i class="fa fa-long-arrow-right"></i> (*Product Owner*) redige e controlla le attività/stato avanzamento lavori (*backlog*), valuta con i Capicantiere la coerenza con le richieste del Committente.
+
+- <code>Capocantiere</code> <i class="fa fa-long-arrow-right"></i> (*Scrum Master*) controlla le risorse e l’avanzamento delle specifiche attività e ottimizza il lavoro dei Capi Squadra.
+
+- <code>Capi Squadra</code> <i class="fa fa-long-arrow-right"></i> selezionano i database e le fonti dati necessarie e coordinano il flusso di dati (Dati-Operai).
+
+- <code>Dati-Operai</code> <i class="fa fa-long-arrow-right"></i> i dati, ovvero gli agenti minimi prodotti o aggregati dai vari ruoli indicati prima
+
+
+

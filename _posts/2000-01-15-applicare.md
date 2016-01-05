@@ -1,6 +1,6 @@
 ---
 title: APPLICARE
-nav-icon: <i class="fa fa-check-square-o"></i>
+nav-icon: <i class="fa fa-wrench"></i>
 bg: arancio
 color: black
 fa-icon: check-square-o

@@ -20,20 +20,20 @@ post: architetture
 
 - **Storia Utente** <i class="fa fa-long-arrow-right"></i>  (*user stories*) una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo*. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
 
-	* Indipendente *(non deve dipendere da altre Storie Utente)*
-	* Negoziabile *(se la Storia Utente è già stata svolta deve potersi trasformare)*
-	* Valorizzante *(deve produrre valore per qualcuno)*
-	* Estimabile *(si deve poterla misurare sia in termini di tempo e di valore)*
-	* Snella *(le tre azioni: per chi, per cosa, perché | azione, segmento, risultato)*
-	* Testabile *(la Storia Utente deve essere verificata attraverso un test)*
+	* Indipendente, non deve dipendere da altre Storie Utente
+	* Negoziabile, se la Storia Utente è già stata svolta deve potersi trasformare
+	* Valorizzante, deve produrre valore per qualcuno
+	* Estimabile, si deve poterla misurare sia in termini di tempo e di valore
+	* Snella, le tre azioni: per chi, per cosa, perché (azione, segmento, risultato)
+	* Testabile, la Storia Utente deve essere verificata attraverso un test
 
 - **Compiti** <i class="fa fa-long-arrow-right"></i> un compito è l'elemento di una Storia Utente; esso è descritto in forma semplice e diretta in base ai requisiti del progetto e del *Backlog*. Un compito è composto da: 
 
-	1. chi lo svolge (*soggetto*);  
+	1. chi lo svolge (soggetto);  
 	2. obiettivo: 
 
-		- come (*verbo*)
-		- cosa (*complemento oggetto*)
+		- come (verbo)
+		- cosa (complemento oggetto)
 
 	3. in quanto tempo;
 	4. il valore (definito attraverso il *Planing Poker*);

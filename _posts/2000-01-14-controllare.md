@@ -1,6 +1,6 @@
 ---
 title: CONTROLLARE
-nav-icon: <i class="fa fa-eye"></i>
+nav-icon: <i class="fa fa-check-square-o"></i>
 bg: rosso
 color: white
 fa-icon: eye
