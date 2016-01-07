@@ -16,7 +16,7 @@ post: architetture
 
 - **Attività** <i class="fa fa-long-arrow-right"></i> è quello che viene fatto per gestire il Cantiere e tenerlo ordinato ed efficiente.
 
-- **Backlog** <i class="fa fa-long-arrow-right"></i> viene definito dal Direttore ai Lavori (*Product Owner*); è l’elenco delle delle Storie Utente che vengono concordate e svolte dai Capi Squadra per completare delle parti del Progetto.
+- **Backlog** <i class="fa fa-long-arrow-right"></i> viene definito dal Direttore ai Lavori (*Product Owner*); è l’elenco delle Storie Utente che vengono concordate e svolte dai Capi Squadra per completare delle parti del Progetto.
 
 - **Storia Utente** <i class="fa fa-long-arrow-right"></i>  (*user stories*) una Storia Utente è una parte del progetto con la definizione di *come* e *in quanto tempo*. Una Storia Utente deve rispondere ai requisiti INVEST (acronimo di): 
 
@@ -36,11 +36,11 @@ post: architetture
 		- cosa (complemento oggetto)
 
 	3. in quanto tempo;
-	4. il valore (definito attraverso il *Planing Poker*);
+	4. il valore (definito attraverso il *Planning Poker*);
 
 - **Planning poker** <i class="fa fa-long-arrow-right"></i> i Capicantiere e Capi Squadra assegnano un punteggio (*1*, *3*, *5*, *8*, *13*) ad ogni Storia Utente e lo propongono al Direttore ai Lavori.
 
-- **MVP** <i class="fa fa-long-arrow-right"></i> il [Minimum Vaible Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) è il Prodotto Minimo Funzionante, ovvero l'obiettivo di ogni Storia Utente. Il risultato di una Storia Utente deve essere un prodotto le cui funzioni sono ridotte a quelle essenziali che, di fatto, definiscono il prodotto stesso. Declinare le Storie Utente in funzione dell'MVP evita di sviluppare progetti troppo onerosi in termini sia di tempo che di risorse.
+- **MVP** <i class="fa fa-long-arrow-right"></i> il [Minimum Viable Product](https://it.wikipedia.org/wiki/Minimum_Viable_Product) è il Prodotto Minimo Funzionante, ovvero l'obiettivo di ogni Storia Utente. Il risultato di una Storia Utente deve essere un prodotto le cui funzioni sono ridotte a quelle essenziali che, di fatto, definiscono il prodotto stesso. Declinare le Storie Utente in funzione dell'MVP evita di sviluppare progetti troppo onerosi in termini sia di tempo che di risorse.
 
 - **Ciclo PDCA** <i class="fa fa-long-arrow-right"></i> PDCA è l'acronimo inglese di *Plan*, *Do*, *Check*, *Act* ovvero le quattro fasi da ripetere ciclicamente: 
 
