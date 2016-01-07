@@ -6,7 +6,7 @@ color: black
 fa-icon: road
 permalink: vademecum
 prev: applicare
-post: footer
+post: ebook
 ---
 
 

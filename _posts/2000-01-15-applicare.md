@@ -7,7 +7,7 @@ fa-icon: wrench
 safe: <i class="fa fa-medkit"></i>
 permalink: applicare
 prev: controllare
-post: footer
+post: vademecum
 ---
 
 
