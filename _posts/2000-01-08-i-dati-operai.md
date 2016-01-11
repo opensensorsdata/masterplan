@@ -5,7 +5,7 @@ bg: rosso
 color: white
 fa-icon: cogs
 safe: <i class="fa fa-medkit"></i>
-permalink: lavoro-nel-cantiere
+permalink: i-dati-operai
 prev: i-ruoli
 post: la-storia-utente
 ---
@@ -17,7 +17,7 @@ Se c’è un cantiere c’è anche chi lo guarda. I Dati-Operai sono i loro migl
 
 1. Un’attività è la lavorazione minima all’interno di un Cantiere.
 2. La [Storia Utente](#glossario) è un’unità minima del Progetto. 
-3. Ho definito la mia squadra di Dati-Operai e sono autonomo nel gestirla.
+3. La mia squadra di Dati-Operai è definita e può essere gestita autonomamente.
 4. I Dati-Operai concludono sempre un’attività.  
 5. Ogni attività dei Dati-Operai può essere la base di altre nuove attività.
 
