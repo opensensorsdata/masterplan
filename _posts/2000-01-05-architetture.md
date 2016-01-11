@@ -22,7 +22,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 
 		1. Verificare le richieste.
 		2. Comporre le priorità.
-		3. Definire MVP (minimum value product) ovvero la base minina per cui il progetto è pronto.
+		3. Definire MVP (minimum value product) ovvero la base minima per la quale il progetto è pronto.
 		4. Definire i tempi.
 
 2. LIVELLO 2 
@@ -49,7 +49,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 
 		1. Concordano le risorse.
 		2. Costituiscono i gruppi.
-		3. Stabilisco le verifiche.
+		3. Stabiliscono le verifiche.
 		4. Individuano i cicli di sprint.
 
 4. LIVELLO 4 
@@ -61,7 +61,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 	* **Attività**:
 
 		1. Concordano le attività negli sprint.
-		2. Si costruiscono le Storie Utente(insieme di compiti che costituiscono le attività).
+		2. Si costruiscono le Storie Utente (insieme di compiti che costituiscono le attività).
 		3. *Planning Poker* (si assegnano le carte dei punteggi di valore (*1*, *3*, *5*, *8*, *13*).
 
 5. LIVELLO 5 
