@@ -51,7 +51,7 @@ post: architetture
 
 - **Sprint** <i class="fa fa-long-arrow-right"></i> Gli Sprint sono detti anche "time boxes" perché hanno una durata fissa: uno Sprint è un ciclo di PDCA all'interno di un progetto
 
-- **Sprint Retrospective** <i class="fa fa-long-arrow-right"></i> l’autovalutazione dello sprint da parte dei Capi Squadra aiutati dal Capocantiere rispetto; questo momento corrisponde alla fase "Controllare" del Ciclo PDCA; la Sprint Retrospective è formata da 5 domande e le risposte vengono usate nella fase "Applicare":
+- **Sprint Retrospective** <i class="fa fa-long-arrow-right"></i> l’autovalutazione dello sprint da parte dei Capi Squadra aiutati dal Capocantiere; questo momento corrisponde alla fase "Controllare" del Ciclo PDCA; la Sprint Retrospective è formata da 5 domande e le risposte vengono usate nella fase "Applicare":
   - da 1 a 5, le tue Storie Utente ti hanno soddisfatto?
   - da 1 a 5, le tue relazioni nel gruppo ti sono state utili?
   - da 1 a 5, con che velocità il gruppo ha individuato gli errori?
