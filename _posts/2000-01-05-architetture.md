@@ -12,7 +12,7 @@ post: sicurezza
 
 Le Architetture sono i processi di avviamento e gestione del cantiere. L’architettura è composta dai livelli. Ogni livello contiene ruoli e attività. I livelli sono esposti con una successione top-down
 
-1. LIVELLO 1 
+1. LIVELLO 0 
 
 	* **Ruoli**: Committente - Progettista.
 
@@ -25,7 +25,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 		3. Definire MVP (minimum value product) ovvero la base minima per la quale il progetto è pronto.
 		4. Definire i tempi.
 
-2. LIVELLO 2 
+2. LIVELLO 1 
 
 	* **Ruoli**: Committente - Direttore Lavori.
 
@@ -39,7 +39,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 		4. Assegna le risorse.
 		5. Assegna i tempi.
 
-3. LIVELLO 3 
+3. LIVELLO 2 
 
 	* **Ruoli**: Direttore Lavori - Capocantiere.
 
@@ -52,7 +52,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 		3. Stabiliscono le verifiche.
 		4. Individuano i cicli di sprint.
 
-4. LIVELLO 4 
+4. LIVELLO 3 
 
 	* **Ruoli**: Capocantiere - Capi Squadra.
 
@@ -64,7 +64,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 		2. Si costruiscono le Storie Utente (insieme di compiti che costituiscono le attività).
 		3. *Planning Poker* (si assegnano le carte dei punteggi di valore (*1*, *3*, *5*, *8*, *13*).
 
-5. LIVELLO 5 
+5. LIVELLO 4 
 
 	* **Ruoli**: Capi Squadra - Capi Squadra.
 
@@ -76,7 +76,7 @@ Le Architetture sono i processi di avviamento e gestione del cantiere. L’archi
 		2. Controllo di coerenza nell’assegnazione dei valori del Planning Pocker.
 		3. Definizione delle competenze.
 
-6. LIVELLO 6 
+6. LIVELLO 5 
 
 	* **Ruoli**: Capi Squadra - Dati-Operai.
 
