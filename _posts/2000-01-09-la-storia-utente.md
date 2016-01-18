@@ -18,7 +18,7 @@ La costruzione di una Storia Utente significa portare i Capi Squadra a scegliere
 1. Il Capocantiere indirizza i Capi Squadra a scegliersi la Storia Utente che preferiscono.
 2. Il Capocantiere si coordina con il Direttore ai Lavori per favorire la coerenza delle storie.
 3. La chiarezza delle motivazioni e degli obiettivi favoriscono l’auto-organizzazione.
-4. Il Direttore ai Lavori armonizza le attività per indirizzare l’auto-organizzazione dei Capisquadra.
+
 
 #### <i class="fa fa-question-circle"></i> Prevenzioni
 
