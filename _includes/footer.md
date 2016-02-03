@@ -1,11 +1,3 @@
----
-title: "info"
-bg: white
-color: black
-style: center
-permalink: footer
----
-
 **{{ site.title }} è fatto con amore da opensensorsdata sotto [<i class="fa fa-creative-commons"></i>-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)**
 
 <i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }} [opensensorsdata srl](http://www.opensensorsdata.it) 
