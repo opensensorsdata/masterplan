@@ -277,12 +277,12 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
-  color:#fff;
+  color:#000;
   text-decoration:none;
   font-family:Open Sans,sans-serif;
   text-align:center;
   font-weight:300;
-  font-size:1rem;
+  font-size:0.7rem;
   line-height:2rem;
   position:relative;
   transition:.5s;
