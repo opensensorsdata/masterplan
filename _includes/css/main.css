@@ -182,7 +182,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 
-#footer {
+/* #footer {
   padding: 8px 0;
   min-height:0;
   text-align:center;
@@ -191,7 +191,7 @@ nav ul li:hover, nav ul li.active {
 }
 #footer .container p { font-size:13px; margin:0; }
 
-#footer  a, a:hover { text-decoration: underline; color: black;}
+#footer  a, a:hover { text-decoration: underline; color: black;} */
 
 .subtlecircle {
   text-align:center;
