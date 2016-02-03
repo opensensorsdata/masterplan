@@ -1,4 +1,8 @@
 ---
+title: "info"
+bg: white
+color: black
+style: center
 permalink: footer
 ---
 
